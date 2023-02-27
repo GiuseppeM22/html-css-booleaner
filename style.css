@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    margin: 0;
+}
+
+.titol{
+    background-color: rgb(101, 152, 247);
+    width: 100%;
+    height: 100px;
+    background-image: url(img\ 2/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    position: relative;
+    
+
+}
+
+.logo{
+    width: 200px;
+    position: absolute;
+    bottom: 0;
+    left: 100px;
+}
+
+.conteiner{
+    margin: auto;
+    width: 900px;
+}
+
+.info-box{
+    margin-top: -25px;
+
+}
+
+.info{
+
+    font-size: small;
+    width: 10px;
+    color: grey;
+    text-align: top;
+
+}
+
+#booleaners{
+    color: rgb(101, 152, 247);
+}
+
+.talk-img{
+    width: 50%;
+}
+
+.tim-2{
+    width: 45%;
+
+}
+
+.list{
+    padding-left: 20px;
+}
