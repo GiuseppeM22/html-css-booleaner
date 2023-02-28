@@ -24,7 +24,7 @@ body{
 
 .conteiner{
     margin: auto;
-    width: 900px;
+    width: 1100px;
 }
 
 .info-box{
@@ -45,14 +45,6 @@ body{
     color: rgb(101, 152, 247);
 }
 
-.talk-img{
-    width: 50%;
-}
-
-.tim-2{
-    width: 45%;
-
-}
 
 .list{
     padding-left: 20px;
